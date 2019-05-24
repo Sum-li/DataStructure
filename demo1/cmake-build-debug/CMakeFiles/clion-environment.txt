@@ -1,0 +1,4 @@
+ToolSet: w64 6.0 (local)@D:\a_Sum\CLion 2018.3.4\huanjing\mingw32
+Options: 
+
+Options:
