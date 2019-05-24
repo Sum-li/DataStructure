@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/demo1.dir/test1.cpp.obj"
   "CMakeFiles/demo1.dir/test2.cpp.obj"
   "CMakeFiles/demo1.dir/test3.cpp.obj"
+  "CMakeFiles/demo1.dir/test4.cpp.obj"
   "demo1.pdb"
   "demo1.exe"
   "demo1.exe.manifest"

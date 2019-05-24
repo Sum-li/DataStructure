@@ -9,3 +9,5 @@ CMakeFiles/demo1.dir/test2.cpp.obj: ../test2.cpp
 
 CMakeFiles/demo1.dir/test3.cpp.obj: ../test3.cpp
 
+CMakeFiles/demo1.dir/test4.cpp.obj: ../test4.cpp
+

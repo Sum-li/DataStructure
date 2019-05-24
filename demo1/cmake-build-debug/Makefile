@@ -230,6 +230,33 @@ test3.cpp.s:
 	$(MAKE) -f CMakeFiles\demo1.dir\build.make CMakeFiles/demo1.dir/test3.cpp.s
 .PHONY : test3.cpp.s
 
+test4.obj: test4.cpp.obj
+
+.PHONY : test4.obj
+
+# target to build an object file
+test4.cpp.obj:
+	$(MAKE) -f CMakeFiles\demo1.dir\build.make CMakeFiles/demo1.dir/test4.cpp.obj
+.PHONY : test4.cpp.obj
+
+test4.i: test4.cpp.i
+
+.PHONY : test4.i
+
+# target to preprocess a source file
+test4.cpp.i:
+	$(MAKE) -f CMakeFiles\demo1.dir\build.make CMakeFiles/demo1.dir/test4.cpp.i
+.PHONY : test4.cpp.i
+
+test4.s: test4.cpp.s
+
+.PHONY : test4.s
+
+# target to generate assembly for a file
+test4.cpp.s:
+	$(MAKE) -f CMakeFiles\demo1.dir\build.make CMakeFiles/demo1.dir/test4.cpp.s
+.PHONY : test4.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -251,6 +278,9 @@ help:
 	@echo ... test3.obj
 	@echo ... test3.i
 	@echo ... test3.s
+	@echo ... test4.obj
+	@echo ... test4.i
+	@echo ... test4.s
 .PHONY : help
 
 

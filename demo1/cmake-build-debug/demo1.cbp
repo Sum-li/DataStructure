@@ -92,6 +92,9 @@
 		<Unit filename="D:/a_Sum/C++program/demo1/test3.cpp">
 			<Option target="demo1"/>
 		</Unit>
+		<Unit filename="D:/a_Sum/C++program/demo1/test4.cpp">
+			<Option target="demo1"/>
+		</Unit>
 		<Unit filename="D:/a_Sum/C++program/demo1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

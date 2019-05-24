@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/a_Sum/C++program/demo1/test1.cpp" "D:/a_Sum/C++program/demo1/cmake-build-debug/CMakeFiles/demo1.dir/test1.cpp.obj"
   "D:/a_Sum/C++program/demo1/test2.cpp" "D:/a_Sum/C++program/demo1/cmake-build-debug/CMakeFiles/demo1.dir/test2.cpp.obj"
   "D:/a_Sum/C++program/demo1/test3.cpp" "D:/a_Sum/C++program/demo1/cmake-build-debug/CMakeFiles/demo1.dir/test3.cpp.obj"
+  "D:/a_Sum/C++program/demo1/test4.cpp" "D:/a_Sum/C++program/demo1/cmake-build-debug/CMakeFiles/demo1.dir/test4.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
